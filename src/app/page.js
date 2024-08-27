@@ -12,7 +12,7 @@ import About from '@/components/About/About';
 import AppStore from '@/components/Appstore/AppStore';
 import Testimonial from '@/components/Testimonial/Testimonial';
 
-export const page = () => {
+export const Page = () => {
   useEffect(() => {
     AOS.init({
       offset:100,

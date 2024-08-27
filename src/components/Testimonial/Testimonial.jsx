@@ -103,6 +103,7 @@ const Testimonial = () => {
                             <img
                             src={img}
                             className='rounded-full w-16 h-16'
+                            alt="image not available"
                             />
                             <div className='space-y-2'>
                               <h1 className='text-xl font-bold text-black/60 
